@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Kali, also known as Gian. I am a college student with a strong passion for coding and programming. 
+Hi, I’m Kali, also known as Gian. I am a college student from Nueva Ecija University of Science and Technology with a strong passion for coding and programming. 
 
 
 ## 🌐 Socials:
